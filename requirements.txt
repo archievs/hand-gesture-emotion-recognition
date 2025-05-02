@@ -1,0 +1,7 @@
+tensorflow==2.15.0
+opencv-python==4.8.0.76
+numpy==1.25.2
+mediapipe==0.10.21
+scikit-learn==1.3.0
+matplotlib==3.8.4
+pandas==1.5.3
