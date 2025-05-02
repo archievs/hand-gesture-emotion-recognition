@@ -5,5 +5,5 @@ A deep learning system to recognize hand gestures (fist, palm, one, two, three, 
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/handgesture.git
+   git clone https://github.com/archievs/handgesture.git
    cd handgesture
